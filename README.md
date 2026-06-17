@@ -1,2 +1,2 @@
 # BrandWacht-API-
-BrandWacht API rules
+방한 외국인 분석할 때 BW에서 데이터와 원문 다운 받는 기능을 구현한것임. 허접함.
